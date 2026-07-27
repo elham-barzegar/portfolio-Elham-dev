@@ -102,7 +102,7 @@ export const contactItems: ContactItem[] = [
   },
   {
     title: "Website",
-    detail:"elhambarzeghar.ir",
+    detail:"elhambarzegar.ir",
     Icon: GlobeIcon,
   },
 ];
