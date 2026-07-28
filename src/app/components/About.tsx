@@ -28,7 +28,7 @@ export function About({ skills }: AboutProps) {
             </div>
             <div className="space-y-2 text-sm leading-relaxed text-zinc-200 sm:text-base">
               <InfoRow label="Full Name" value="Elham Barzeghar" />
-              <InfoRow label="Website" value="elhambarzeghar.ir" />
+              <InfoRow label="Website" value="elhambarzegar.ir" />
               <InfoRow label="E-Mail" value="elhambarzegar.hs@gmail.com" />
             </div>
           </div>
