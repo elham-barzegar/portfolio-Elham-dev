@@ -11,7 +11,7 @@ export function Hero({ navLinks }: HeroProps) {
       <div className="absolute inset-0">
         <Image
           src="/images/comp-3.jpg"
-          alt="Portrait of Elham Barzeghar"
+          alt="Portrait of Elham Barzegar"
           fill
           className="object-cover opacity-70"
           priority
@@ -22,7 +22,7 @@ export function Hero({ navLinks }: HeroProps) {
 
       <div className="relative mx-auto flex max-w-6xl flex-col gap-10 px-6 pb-16 pt-8">
         <nav className="flex items-center justify-between text-xs font-semibold uppercase tracking-[0.18em] text-zinc-300">
-          <span className="text-lg font-bold tracking-tight text-white">Elham  Barzeghar</span>
+          <span className="text-lg font-bold tracking-tight text-white">Elham  Barzegar</span>
           <div className="hidden items-center gap-8 md:flex">
             {navLinks.map((link) => (
               <a key={link.label} href={link.href} className="transition-colors hover:text-white">
@@ -55,7 +55,7 @@ export function Hero({ navLinks }: HeroProps) {
               <div className="space-y-3">
               <p className="text-sm uppercase tracking-[0.3em] text-zinc-400">Hello</p>
               <h1 className="text-4xl font-black leading-tight text-white sm:text-5xl">
-                I&apos;m Elham Barzeghar
+                I&apos;m Elham Barzegar
               </h1>
             </div>
             <p className="max-w-2xl text-lg leading-relaxed text-zinc-300">

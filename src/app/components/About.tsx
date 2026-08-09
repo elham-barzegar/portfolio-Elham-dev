@@ -12,7 +12,7 @@ export function About({ skills }: AboutProps) {
       <div className="mx-auto max-w-6xl px-6">
         <SectionHeading
           title="About Me"
-          subtitle="I am Elham Barzeghar, a passionate web designer and developer with eight years of experience crafting products that feel polished and purposeful."
+          subtitle="I am Elham Barzegar, a passionate web designer and developer with eight years of experience crafting products that feel polished and purposeful."
         />
 
         <div className="mt-10 grid gap-8 lg:grid-cols-[1.05fr_1fr]">
@@ -27,7 +27,7 @@ export function About({ skills }: AboutProps) {
               />
             </div>
             <div className="space-y-2 text-sm leading-relaxed text-zinc-200 sm:text-base">
-              <InfoRow label="Full Name" value="Elham Barzeghar" />
+              <InfoRow label="Full Name" value="Elham Barzegar" />
               <InfoRow label="Website" value="elhambarzegar.ir" />
               <InfoRow label="E-Mail" value="elhambarzegar.hs@gmail.com" />
             </div>
