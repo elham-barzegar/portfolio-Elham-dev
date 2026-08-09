@@ -10,7 +10,7 @@ const font = Inter({
 
 
 export const metadata: Metadata = {
-  title: "Elham Barzeghar | Portfolio",
+  title: "Elham Barzegar | Portfolio",
   description: "Portfolio website for Elham Barzeghar – web developer.",
 };
 
