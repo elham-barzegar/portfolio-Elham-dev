@@ -6,7 +6,7 @@ A modern and responsive personal portfolio website built to showcase frontend de
 
 https://portfolio-elham-dev.vercel.app/
 
-![Portfolio Preview](./homepage.png)[https://portfolio-elham-dev.vercel.app/]
+[![Portfolio Preview](./homepage.png)](https://portfolio-elham-dev.vercel.app/)
 
 ## 🛠️ Tech Stack
 
